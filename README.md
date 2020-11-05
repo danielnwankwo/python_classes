@@ -2,13 +2,15 @@
 ## OOP OBJECT ORIENTED PROGRAMMING
 ### Four Pillars
 
-- Inheritance - this is the most utilised
+- Inheritance - this is the most utilised i eliminates redundant code
  
 - Encapsulation -  you can restrict access to methods and attributes of a certain class. This prevents accidental modification of data and unwanted changes
+- reduces complexity and increases reusability 
 
-- Abstraction - 
+- Abstraction - reduces complexity and isolates impacts of change 
 
-- Polymorphism - objects of a particular class can be used as if it belonged to a different class.
+- Polymorphism - objects of a particular class can be used as if it belonged to a different class. - refactors code or case statements
+- allows us to change or attributes/behaviours
 
 - What are Classes 
 - Why
