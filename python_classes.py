@@ -10,9 +10,24 @@ class Dog:
     # defining class as variable
     animal_kind = "canine"
 
+# __init__(self) initialises the class
+    def __init__(self, name, colour):
+        self.name = name
+        self.colour = colour
+# we now need to add variable answers when creating the object of the dog class before print
+fido = dog("fido", "brown")
+
+
     # self refers to current class
     def bark(self):
         return("woof")
+
+
+# print(fido.name)
+# print(fido.colour)
+# print(fido.bark())
+
+
 
 
 # in order to execute a class we have to create an object of the class
